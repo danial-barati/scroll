@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/scroll/assets/104683176/bcdab226-e1db-4fc5-a399-5fadf630837e)
 
-- 🔗 [demo](https://danial-barati.github.io/card-bank/)
+- 🔗 [demo](https://danial-barati.github.io/scroll/)
 
 - 👩🏻‍💻 Developed by danial barati
 
