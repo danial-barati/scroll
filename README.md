@@ -2,7 +2,7 @@
 
 ** a scroll by pure js **
 
-![view](https://github.com/danial-barati/card-bank/assets/104683176/4bd8dcfb-3dfa-429c-9dcb-610d0c63d85a)
+![view](https://github.com/danial-barati/scroll/assets/104683176/bcdab226-e1db-4fc5-a399-5fadf630837e)
 
 - 🔗 [demo](https://danial-barati.github.io/card-bank/)
 
