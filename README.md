@@ -1,4 +1,4 @@
-# scroll
+# slider
 
 ** a scroll by pure js **
 
